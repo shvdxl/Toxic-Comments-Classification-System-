@@ -13,4 +13,4 @@ learning algorithms (ML) such as Decision Tree and Naïve Biase that will classi
 and non-toxic. We can then filter these comments from the clean ones, thus enhancing the environment to be 
 more healthy and safer for the users.
 
-The dataset website: https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification challenge 
+The dataset website: https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge 
